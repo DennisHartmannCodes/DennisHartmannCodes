@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm a first year astro PhD student at Johns Hopkins University
+- I'm currently working on studying the ISM using Thermal Light Echos
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisHartmannCodes&layout=compact&theme=ambient_gradient)
 <!--
 **DennisHartmannCodes/DennisHartmannCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
