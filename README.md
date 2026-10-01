@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there 
 
-- I'm a first year astro PhD student at Johns Hopkins University
-- I'm currently working on studying the ISM using Thermal Light Echos
+- I'm a second year astronomy and astrophysics PhD student at Johns Hopkins University
+- I work primarily with members of the ISM* group at Space Telescope Science Institute 
+- I'm currently working on studying the ISM using Thermal Light Echoes
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisHartmannCodes&layout=compact&theme=ambient_gradient)
 <!--
